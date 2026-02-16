@@ -1,1 +1,4 @@
-# CS-303-Assignment-1
+After running the program in Visual Studio Code, a menu will appear in the terminal. The user selects an option by entering a number and pressing Enter. Press 1 to search for an integer, then enter the number you want to find and the program will display the index if it exists. Press 2 to modify an integer, then enter the index and the new value to replace the old value. Press 3 to add a new integer to the end of the array and enter the value when prompted. Press 4 to remove an integer by entering the index of the value to be removed. Press 5 to display all values currently stored in the array. Press 6 to exit the program. Screenshots of the output for each function are included below.
+
+<img width="301" height="237" alt="image" src="https://github.com/user-attachments/assets/cff323af-42ce-44b2-bddb-e2a23411a548" />
+<img width="1301" height="487" alt="image" src="https://github.com/user-attachments/assets/8ff19f9a-1ba7-4682-8f8b-86659c237630" />
